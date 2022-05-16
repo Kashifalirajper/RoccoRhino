@@ -7743,6 +7743,10 @@ body.hc-nav-open {
 	.characterDesign{
 		padding: 10px;
 	}
+	.characterDesign2{
+		padding-right: 10px;
+		padding-left: 10px;
+	} 
 }
 
 
