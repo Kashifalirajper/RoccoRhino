@@ -7738,6 +7738,14 @@ body.hc-nav-open {
     padding-left: 100px;
 } 
 
+
+@media screen and (max-width: 499px) {
+	.characterDesign{
+		padding: 10px;
+	}
+}
+
+
 .characterHeading{
 	font-family: 'Aclonica';
 font-style: normal;
